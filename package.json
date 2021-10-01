@@ -1,0 +1,28 @@
+{
+    " nome ": " cep-redis ",
+    " versão ": " 1.0.0 ",
+    " descrição ": " ",
+    " main ": " index.js ",
+    " scripts ": {
+        " dev ": " nodemon --exec ts-node src / server.ts "
+    },
+    " palavras-chave ": [],
+    " autor ": " ",
+    " licença ": " ISC ",
+    " dependências ": {
+        " axios ": " ^ 0.21.4 ",
+        " cors ": " ^ 2.8.5 ",
+        " expresso ": " ^ 4.17.1 ",
+        " morgan ": " ^ 1.10.0 ",
+        " redis ": " ^ 4.0.0-rc.1 "
+    },
+    " devDependencies ": {
+        " @ types / cors ": " ^ 2.8.12 ",
+        " @ types / express ": " ^ 4.17.13 ",
+        " @ types / morgan ": " ^ 1.9.3 ",
+        " @ types / node ": " ^ 16.9.2 ",
+        " nodemon ": " ^ 2.0.12 ",
+        " nó-ts ": " ^ 10.2.1 ",
+        " texto datilografado ": " ^ 4.4.3 "
+    }
+}

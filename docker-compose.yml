@@ -1,0 +1,8 @@
+versão : " 3 "
+
+serviços :
+  redis :
+    imagem : redis
+    comando : redis-server
+    portas :
+        - " 6379: 6379 " 
